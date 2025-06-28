@@ -1,0 +1,92 @@
+[
+	{
+		"id": "1",
+		"title": "Planet Earth",
+		"description": "A documentary series exploring the natural world, featuring stunning cinematography and the diverse wildlife that inhabits our planet.",
+		"thumbnail": "https://picsum.photos/300/200?random=1",
+		"backdrop": "https://picsum.photos/1920/1080?random=11",
+		"url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+		"genre": ["Documentary", "Nature"],
+		"runtime": "50m",
+		"year": "2006",
+		"rating": "PG",
+		"starring": ["David Attenborough"],
+		"director": "Alastair Fothergill"
+	},
+	{
+		"id": "2",
+		"title": "Sintel",
+		"description": "A touching story about a girl and her quest to rescue her beloved dragon companion from dark forces.",
+		"thumbnail": "https://picsum.photos/300/200?random=2",
+		"backdrop": "https://picsum.photos/1920/1080?random=12",
+		"url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+		"genre": ["Animation", "Fantasy", "Adventure"],
+		"runtime": "14m",
+		"year": "2010",
+		"rating": "PG",
+		"starring": ["Halina Reijn", "Thom Hoffman"],
+		"director": "Colin Levy"
+	},
+	{
+		"id": "3",
+		"title": "Big Buck Bunny",
+		"description": "A comedy about a giant rabbit with a heart bigger than himself who sets out to teach three bullying rodents a lesson.",
+		"thumbnail": "https://picsum.photos/300/200?random=3",
+		"backdrop": "https://picsum.photos/1920/1080?random=13",
+		"url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+		"genre": ["Animation", "Comedy", "Family"],
+		"runtime": "10m",
+		"year": "2008",
+		"rating": "G",
+		"starring": ["Frank Ekkebus", "Sacha Goedegebure"],
+		"director": "Sacha Goedegebure"
+	},
+	{
+		"id": "4",
+		"title": "Tears of Steel",
+		"description": "In an apocalyptic future, a group of scientists and warriors fight to save humanity from destruction.",
+		"thumbnail": "https://picsum.photos/300/200?random=4",
+		"backdrop": "https://picsum.photos/1920/1080?random=14",
+		"url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+		"genre": ["Sci-Fi", "Action", "Drama"],
+		"runtime": "12m",
+		"year": "2012",
+		"rating": "PG-13",
+		"starring": ["Derek de Lint", "Berenice Bejo", "Casper Gimberg"],
+		"director": "Ian Hubert"
+	},
+	{
+		"id": "5",
+		"title": "Fury",
+		"description": "April 1945. As the Allies make their final push in the European Theatre, a battle-hardened Army sergeant named Wardaddy commands a Sherman tank and his five-man crew on a deadly mission behind enemy lines.",
+		"thumbnail": "https://picsum.photos/300/200?random=5",
+		"backdrop": "https://picsum.photos/1920/1080?random=15",
+		"url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+		"genre": ["War", "Drama", "Action"],
+		"runtime": "2h 14m",
+		"year": "2014",
+		"rating": "R",
+		"starring": [
+			"Brad Pitt",
+			"Shia LaBeouf",
+			"Logan Lerman",
+			"Michael Peña",
+			"Jon Bernthal"
+		],
+		"director": "David Ayer"
+	},
+	{
+		"id": "6",
+		"title": "The Great Journey",
+		"description": "An epic adventure following explorers as they traverse unknown territories in search of ancient treasures.",
+		"thumbnail": "https://picsum.photos/300/200?random=6",
+		"backdrop": "https://picsum.photos/1920/1080?random=16",
+		"url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+		"genre": ["Adventure", "Drama"],
+		"runtime": "1h 45m",
+		"year": "2023",
+		"rating": "PG-13",
+		"starring": ["Emma Stone", "Ryan Gosling", "Oscar Isaac"],
+		"director": "Christopher Nolan"
+	}
+]

@@ -24,12 +24,14 @@
       "edgeToEdgeEnabled": true,
       "splash": {
         "image": "./assets/images/splash.png"
-      }
+      },
+      "package": "com.anonymous.tvassignment"
     },
     "ios": {
       "splash": {
         "image": "./assets/images/splash.png"
-      }
+      },
+      "bundleIdentifier": "com.anonymous.tvassignment"
     },
     "web": {
       "bundler": "metro",
